@@ -1,0 +1,2 @@
+Model,Samples,Accuracy,F1Score,Hyper-parameters,Validation Set
+DDOS2019-CNN2023,2082,0.9673,0.9642,"{'batch_size': 1024, 'dropout': 0.5, 'kernels': 64, 'learning_rate': 0.01, 'regularization': 'l2'}",./sample-dataset/10t-10n-DDOS2019-dataset-val.hdf5
