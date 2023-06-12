@@ -3,8 +3,8 @@ Science Fair Project made by Vedanth Ramanathan. Won US Army and Navy Excellence
 
 Confusion Matrix:
 
-![alt text](https://github.com/[VedanthR5]/[ A-Novel-Deep-Learning-Solution-to-detect-DDoS-attacks-using-Neural-Networks-
-]/blob/[main]/image.jpg?raw=true)
+![Confusion Matrix](https://github.com/[VedanthR5]/[ A-Novel-Deep-Learning-Solution-to-detect-DDoS-attacks-using-Neural-Networks-
+]/blob/[main]/confusionMatrix.jpg?raw=true)
 
 Thanks to the University of North Brunswick for providing a [state of the art dataset](https://www.unb.ca/cic/datasets/ddos-2019.html), to which I trained my model to.
 
