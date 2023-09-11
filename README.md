@@ -3,7 +3,7 @@ Science Fair Project made by Vedanth Ramanathan. Won US Army and Navy Excellence
 
 Confusion Matrix:
 
-![Confusion Matrix](confusionMatrix.png?raw=true)
+![Confusion Matrix](Figure6.png?raw=true)
 
 Thanks to the University of North Brunswick for providing a [state of the art dataset](https://www.unb.ca/cic/datasets/ddos-2019.html), to which I trained my model to.
 
