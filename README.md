@@ -1,7 +1,10 @@
 # A Novel Deep Learning Solution to detect DDoS attacks using Neural Networks
 Science Fair Project made by Vedanth Ramanathan, working with Professor Krish Mahadevan and Ms. Sejal Dua. Won US Army and Navy Excellence Awards. 3rd in Fair. Made using Python, LinuxMint, and Tensorflow. Achieved a Accuracy of 99.6% over 2000+ samples.
-// 
+
+
 Link to Paper: https://arxiv.org/abs/2309.05646
+
+
 Confusion Matrix:
 
 ![Confusion Matrix](Figure6.png?raw=true)
